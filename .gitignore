@@ -1,0 +1,45 @@
+.vscode 
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+
+.vscode/solution-explorer/class.cs-template
+.vscode/solution-explorer/class.ts-template
+.vscode/solution-explorer/template-parameters.js
+.vscode/solution-explorer/class.vb-template
+.vscode/solution-explorer/default.ts-template
+.vscode/solution-explorer/enum.cs-template
+.vscode/solution-explorer/interface.cs-template
+.vscode/solution-explorer/interface.ts-template
+.vscode/solution-explorer/template-list.json
+PurocumentAPI/obj/
+PurocumentAPI/bin/
+PurocumentLib/obj/
+PurocumentLib/bin/
+DevelopBase/obj/
+DevelopBase/bin/
+.vs
+*.cache
+*.dll
