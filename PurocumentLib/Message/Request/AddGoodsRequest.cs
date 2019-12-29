@@ -6,6 +6,7 @@ namespace PurocumentLib.Message.Request
     {
         public string WechatID { get; set; }
         public string Name{get;set;}
+        public string Specification { get; set; }
         public int ClassID{get;set;}
         public int UnitID{get;set;}
     }

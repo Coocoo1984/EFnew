@@ -29,6 +29,7 @@ namespace PurocumentLib.Service
             var entity=new Entity.Goods()
             {
                 Name=goods.Name,
+                Specification = goods.Specification,
                 ClassID=goods.ClassID,
                 Disable=false,
                 UnitID=goods.UnitID

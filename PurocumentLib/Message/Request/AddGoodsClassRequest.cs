@@ -11,6 +11,7 @@ namespace PurocumentLib.Message.Request
             get;
             set;
         }
+        public string Specification { get; set; }
         public string Desc
         {
             get;
